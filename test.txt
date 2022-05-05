@@ -1,1 +1,2 @@
 This is my first test file.
+Adding the second line to check the changes.
